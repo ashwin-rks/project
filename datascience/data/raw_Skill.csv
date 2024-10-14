@@ -1,0 +1,183 @@
+skill_id,skill_name,data_loaded_at
+1,Python,2024-10-08 16:11:56.496826
+2,Java,2024-10-08 16:11:56.496826
+3,C++,2024-10-08 16:11:56.496826
+4,JavaScript,2024-10-08 16:11:56.496826
+5,HTML/CSS,2024-10-08 16:11:56.496826
+6,SQL,2024-10-08 16:11:56.496826
+7,Git,2024-10-08 16:11:56.496826
+8,Software Testing,2024-10-08 16:11:56.496826
+9,Agile Methodologies,2024-10-08 16:11:56.496826
+10,RESTful APIs,2024-10-08 16:11:56.496826
+11,Microservices,2024-10-08 16:11:56.496826
+12,DevOps Tools Docker Kubernetes,2024-10-08 16:11:56.496826
+13,Cloud Computing AWS Azure,2024-10-08 16:11:56.496826
+14,Data Structures and Algorithms,2024-10-08 16:11:56.496826
+15,System Design,2024-10-08 16:11:56.496826
+16,Mobile Development iOS Android,2024-10-08 16:11:56.496826
+17,Front-end Frameworks React Angular,2024-10-08 16:11:56.496826
+18,Back-end Frameworks Node.js Spring,2024-10-08 16:11:56.496826
+19,Version Control Systems,2024-10-08 16:11:56.496826
+20,Continuous Integration Continuous Deployment CI/CD,2024-10-08 16:11:56.496826
+21,Product Roadmapping,2024-10-08 16:11:56.496826
+22,User Research,2024-10-08 16:11:56.496826
+23,A/B Testing,2024-10-08 16:11:56.496826
+24,Requirements Gathering,2024-10-08 16:11:56.496826
+25,Stakeholder Management,2024-10-08 16:11:56.496826
+26,Market Research,2024-10-08 16:11:56.496826
+27,KPI Analysis,2024-10-08 16:11:56.496826
+28,User Story Mapping,2024-10-08 16:11:56.496826
+29,Competitive Analysis,2024-10-08 16:11:56.496826
+30,Product Lifecycle Management,2024-10-08 16:11:56.496826
+31,Prioritization Frameworks,2024-10-08 16:11:56.496826
+32,Design Thinking,2024-10-08 16:11:56.496826
+33,Agile/Scrum Training,2024-10-08 16:11:56.496826
+34,Business Case Development,2024-10-08 16:11:56.496826
+35,Customer Journey Mapping,2024-10-08 16:11:56.496826
+36,Technical Understanding,2024-10-08 16:11:56.496826
+37,Feature Definition,2024-10-08 16:11:56.496826
+38,Risk Management,2024-10-08 16:11:56.496826
+39,Metrics Tracking,2024-10-08 16:11:56.496826
+40,Test Planning,2024-10-08 16:11:56.496826
+41,Manual Testing,2024-10-08 16:11:56.496826
+42,Automated Testing Selenium TestNG,2024-10-08 16:11:56.496826
+43,Performance Testing,2024-10-08 16:11:56.496826
+44,Regression Testing,2024-10-08 16:11:56.496826
+45,Bug Tracking Tools JIRA Bugzilla,2024-10-08 16:11:56.496826
+46,Continuous Integration CI,2024-10-08 16:11:56.496826
+47,Test Case Design,2024-10-08 16:11:56.496826
+48,Quality Standards ISO CMMI,2024-10-08 16:11:56.496826
+49,Network Configuration,2024-10-08 16:11:56.496826
+50,System Administration Windows/Linux,2024-10-08 16:11:56.496826
+51,Cybersecurity Practices,2024-10-08 16:11:56.496826
+52,Cloud Services Management AWS Azure,2024-10-08 16:11:56.496826
+53,Virtualization VMware Hyper-V,2024-10-08 16:11:56.496826
+54,ITIL Framework,2024-10-08 16:11:56.496826
+55,Database Management,2024-10-08 16:11:56.496826
+56,IT Support/Help Desk,2024-10-08 16:11:56.496826
+57,Software Installation and Configuration,2024-10-08 16:11:56.496826
+58,Hardware Troubleshooting,2024-10-08 16:11:56.496826
+59,Endpoint Security,2024-10-08 16:11:56.496826
+60,Backup and Recovery Solutions,2024-10-08 16:11:56.496826
+61,IT Compliance Standards,2024-10-08 16:11:56.496826
+62,Incident Response,2024-10-08 16:11:56.496826
+63,Python for Data Analysis,2024-10-08 16:11:56.496826
+64,R Programming,2024-10-08 16:11:56.496826
+65,Machine Learning Algorithms,2024-10-08 16:11:56.496826
+66,Data Visualization Tableau Power BI,2024-10-08 16:11:56.496826
+67,Statistical Analysis,2024-10-08 16:11:56.496826
+68,Data Wrangling,2024-10-08 16:11:56.496826
+69,Big Data Technologies Hadoop Spark,2024-10-08 16:11:56.496826
+70,Predictive Modeling,2024-10-08 16:11:56.496826
+71,Natural Language Processing NLP,2024-10-08 16:11:56.496826
+72,Data Mining Techniques,2024-10-08 16:11:56.496826
+73,Continuous Integration Continuous Deployment CI/CD,2024-10-08 16:11:56.496826
+74,Infrastructure as Code Terraform Ansible,2024-10-08 16:11:56.496826
+75,Cloud Computing AWS Azure,2024-10-08 16:11:56.496826
+76,Containerization Docker Kubernetes,2024-10-08 16:11:56.496826
+77,Monitoring and Logging Tools Prometheus Grafana,2024-10-08 16:11:56.496826
+78,Scripting Bash Python,2024-10-08 16:11:56.496826
+79,Version Control Git,2024-10-08 16:11:56.496826
+80,Networking Concepts,2024-10-08 16:11:56.496826
+81,Configuration Management,2024-10-08 16:11:56.496826
+82,Agile Practices,2024-10-08 16:11:56.496826
+83,Security Practices in DevOps,2024-10-08 16:11:56.496826
+84,Release Management,2024-10-08 16:11:56.496826
+85,Incident Management,2024-10-08 16:11:56.496826
+86,Automation Tools,2024-10-08 16:11:56.496826
+87,Load Balancing,2024-10-08 16:11:56.496826
+88,Microservices Architecture,2024-10-08 16:11:56.496826
+89,Database Management,2024-10-08 16:11:56.496826
+90,Network Security,2024-10-08 16:11:56.496826
+91,Risk Assessment,2024-10-08 16:11:56.496826
+92,Incident Response,2024-10-08 16:11:56.496826
+93,Ethical Hacking,2024-10-08 16:11:56.496826
+94,Penetration Testing,2024-10-08 16:11:56.496826
+95,Security Information and Event Management SIEM,2024-10-08 16:11:56.496826
+96,Malware Analysis,2024-10-08 16:11:56.496826
+97,Vulnerability Assessment,2024-10-08 16:11:56.496826
+98,Encryption Technologies,2024-10-08 16:11:56.496826
+99,Firewalls and Intrusion Detection Systems,2024-10-08 16:11:56.496826
+100,Security Policies and Procedures,2024-10-08 16:11:56.496826
+101,Compliance Standards GDPR HIPAA,2024-10-08 16:11:56.496826
+102,Data Loss Prevention,2024-10-08 16:11:56.496826
+103,Identity and Access Management IAM,2024-10-08 16:11:56.496826
+104,Security Auditing,2024-10-08 16:11:56.496826
+105,Threat Intelligence,2024-10-08 16:11:56.496826
+106,User Research,2024-10-08 16:11:56.496826
+107,Prototyping,2024-10-08 16:11:56.496826
+108,Usability Testing,2024-10-08 16:11:56.496826
+109,Interaction Design,2024-10-08 16:11:56.496826
+110,Visual Design Principles,2024-10-08 16:11:56.496826
+111,Design Software Sketch Figma Adobe XD,2024-10-08 16:11:56.496826
+112,Responsive Design,2024-10-08 16:11:56.496826
+113,User Personas,2024-10-08 16:11:56.496826
+114,User Journey Mapping,2024-10-08 16:11:56.496826
+115,Information Architecture,2024-10-08 16:11:56.496826
+116,Accessibility Standards WCAG,2024-10-08 16:11:56.496826
+117,Design Systems,2024-10-08 16:11:56.496826
+118,Sales Techniques,2024-10-08 16:11:56.496826
+119,Negotiation Skills,2024-10-08 16:11:56.496826
+120,Lead Generation,2024-10-08 16:11:56.496826
+121,Customer Relationship Management CRM,2024-10-08 16:11:56.496826
+122,Market Analysis,2024-10-08 16:11:56.496826
+123,Sales Funnel Management,2024-10-08 16:11:56.496826
+124,Sales Presentations,2024-10-08 16:11:56.496826
+125,Closing Techniques,2024-10-08 16:11:56.496826
+126,Cold Calling,2024-10-08 16:11:56.496826
+127,Customer Engagement,2024-10-08 16:11:56.496826
+128,Product Knowledge,2024-10-08 16:11:56.496826
+129,Sales Forecasting,2024-10-08 16:11:56.496826
+130,Email Marketing,2024-10-08 16:11:56.496826
+131,SEO,2024-10-08 16:11:56.496826
+132,Content Marketing,2024-10-08 16:11:56.496826
+133,Social Media Management,2024-10-08 16:11:56.496826
+134,Campaign Management,2024-10-08 16:11:56.496826
+135,Data Analysis,2024-10-08 16:11:56.496826
+136,Market Research,2024-10-08 16:11:56.496826
+137,Brand Management,2024-10-08 16:11:56.496826
+138,Copywriting,2024-10-08 16:11:56.496826
+139,Email Campaigns,2024-10-08 16:11:56.496826
+140,Digital Strategy,2024-10-08 16:11:56.496826
+141,Customer Support,2024-10-08 16:11:56.496826
+142,Technical Support,2024-10-08 16:11:56.496826
+143,Problem-Solving,2024-10-08 16:11:56.496826
+144,Communication Skills,2024-10-08 16:11:56.496826
+145,Conflict Resolution,2024-10-08 16:11:56.496826
+146,Service Level Agreements,2024-10-08 16:11:56.496826
+147,Help Desk Software,2024-10-08 16:11:56.496826
+148,Customer Feedback,2024-10-08 16:11:56.496826
+149,Call Center Operations,2024-10-08 16:11:56.496826
+150,User Training,2024-10-08 16:11:56.496826
+151,Onboarding Processes,2024-10-08 16:11:56.496826
+152,Job Analysis,2024-10-08 16:11:56.496826
+153,Recruitment Strategies,2024-10-08 16:11:56.496826
+154,Performance Management,2024-10-08 16:11:56.496826
+155,Employee Relations,2024-10-08 16:11:56.496826
+156,Training and Development,2024-10-08 16:11:56.496826
+157,HR Policies,2024-10-08 16:11:56.496826
+158,Compensation and Benefits,2024-10-08 16:11:56.496826
+159,Diversity and Inclusion,2024-10-08 16:11:56.496826
+160,Employee Engagement,2024-10-08 16:11:56.496826
+161,Compliance with Labor Laws,2024-10-08 16:11:56.496826
+162,Workforce Planning,2024-10-08 16:11:56.496826
+163,Budgeting,2024-10-08 16:11:56.496826
+164,Financial Reporting,2024-10-08 16:11:56.496826
+165,Tax Compliance,2024-10-08 16:11:56.496826
+166,Budget Analysis,2024-10-08 16:11:56.496826
+167,Accounting Principles,2024-10-08 16:11:56.496826
+168,Investment Strategies,2024-10-08 16:11:56.496826
+169,Risk Management,2024-10-08 16:11:56.496826
+170,Financial Modeling,2024-10-08 16:11:56.496826
+171,Audit Processes,2024-10-08 16:11:56.496826
+172,Regulatory Compliance,2024-10-08 16:11:56.496826
+173,Data Analysis,2024-10-08 16:11:56.496826
+174,Legal Research,2024-10-08 16:11:56.496826
+175,Contract Management,2024-10-08 16:11:56.496826
+176,Compliance Standards,2024-10-08 16:11:56.496826
+177,Litigation Support,2024-10-08 16:11:56.496826
+178,Legal Writing,2024-10-08 16:11:56.496826
+179,Client Communication,2024-10-08 16:11:56.496826
+180,Dispute Resolution,2024-10-08 16:11:56.496826
+181,Intellectual Property Law,2024-10-08 16:11:56.496826
+182,Employment Law,2024-10-08 16:11:56.496826

@@ -1,0 +1,12 @@
+# dependenies
+venv/
+
+# Data
+
+RAW/data
+PREP/data 
+DATA_MART/data
+REPORTING/data
+
+# Secrets
+.env
